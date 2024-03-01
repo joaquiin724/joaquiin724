@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguevrgo&layout=compact&theme=tokyonight" alt="miguevrgo-github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquiin724&layout=compact&theme=tokyonight" alt="joaquiin724-github" />
 </p>
 
 <!--
